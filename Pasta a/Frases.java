@@ -12,7 +12,7 @@ public class Frases {
             if (frase.equalsIgnoreCase("PARE")) {
                 break;
             }
-            System.out.println("Você digitou: " + frase);
+            System.out.println("Você digito: " + frase);
         }
 
         System.out.println("Programa encerrado.");
